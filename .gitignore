@@ -1,0 +1,15 @@
+# Compilation result #
+*.class
+
+# Package files #
+*.jar
+*.war
+*.ear
+
+# Project files and folders #
+.project
+.classpath
+.settings/
+bin/
+build/
+target/
