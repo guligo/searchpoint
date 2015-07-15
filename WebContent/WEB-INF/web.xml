@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
         http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
     
-    <display-name>findforit</display-name>
+    <display-name>searchpoint</display-name>
     
     <!-- log4j configurations -->
     <context-param>

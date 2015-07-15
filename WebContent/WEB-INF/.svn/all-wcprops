@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/dartech/searchpoint/svn/!svn/ver/6/searchpoint/WebContent/WEB-INF
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dartech/searchpoint/svn/!svn/ver/24/searchpoint/WebContent/WEB-INF/persistence.xml
+END
+dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dartech/searchpoint/svn/!svn/ver/17/searchpoint/WebContent/WEB-INF/dispatcher-servlet.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dartech/searchpoint/svn/!svn/ver/7/searchpoint/WebContent/WEB-INF/log4j.properties
+END
+views.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dartech/searchpoint/svn/!svn/ver/22/searchpoint/WebContent/WEB-INF/views.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dartech/searchpoint/svn/!svn/ver/20/searchpoint/WebContent/WEB-INF/web.xml
+END

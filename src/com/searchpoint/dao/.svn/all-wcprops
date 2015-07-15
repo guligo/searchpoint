@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dartech/searchpoint/svn/!svn/ver/2/searchpoint/src/com/searchpoint/dao
+END
+PersistentEntityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/dartech/searchpoint/svn/!svn/ver/2/searchpoint/src/com/searchpoint/dao/PersistentEntityType.java
+END
+CommonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dartech/searchpoint/svn/!svn/ver/2/searchpoint/src/com/searchpoint/dao/CommonDAO.java
+END
+PersistentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dartech/searchpoint/svn/!svn/ver/2/searchpoint/src/com/searchpoint/dao/PersistentEntity.java
+END

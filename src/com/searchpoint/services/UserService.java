@@ -2,9 +2,6 @@ package com.searchpoint.services;
 
 import java.util.List;
 
-import javax.persistence.EntityManager;
-import javax.persistence.PersistenceContext;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -14,14 +11,10 @@ import com.searchpoint.entities.User;
 /**
  * Contains methods for operation with users.
  * 
- * @author Igors Gulbinskis
+ * @author guligo
  */
 @Component
 public class UserService {
-
-	@Autowired
-	@PersistenceContext
-	private EntityManager entityManager;
 
 	@Autowired
 	private CommonDAO commonDAO;
@@ -32,7 +25,7 @@ public class UserService {
 
 	@SuppressWarnings("unchecked")
 	public User getUserByEmail(String email) {
-		List<User> users = entityManager.createQuery("from User u where u.email = :email")
+		List<User> users = commonDAO.getEntityManager().createQuery("from User u where u.email = :email")
 			.setParameter("email", email)
 			.getResultList();
 		if (users == null

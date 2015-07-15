@@ -7,7 +7,6 @@ import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
 import org.apache.log4j.Logger;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -15,7 +14,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * Common data access object.
  * 
- * @author Igors Gulbinskis
+ * @author guligo
  */
 @Component
 @Transactional
@@ -23,7 +22,6 @@ public class CommonDAO {
 	
 	private final static Logger log = Logger.getLogger(CommonDAO.class);
 	
-	@Autowired
 	@PersistenceContext
 	private EntityManager entityManager;
 
@@ -65,4 +63,8 @@ public class CommonDAO {
 		log.debug("Database is cleaned");
 	}
 
+	public EntityManager getEntityManager() {
+		return entityManager;
+	}
+	
 }

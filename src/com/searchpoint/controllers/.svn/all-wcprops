@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dartech/searchpoint/svn/!svn/ver/5/searchpoint/src/com/searchpoint/controllers
+END
+CompaniesPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dartech/searchpoint/svn/!svn/ver/22/searchpoint/src/com/searchpoint/controllers/CompaniesPageController.java
+END
+DataUploadPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/dartech/searchpoint/svn/!svn/ver/22/searchpoint/src/com/searchpoint/controllers/DataUploadPageController.java
+END
+UserCompanyRegistrationPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/dartech/searchpoint/svn/!svn/ver/23/searchpoint/src/com/searchpoint/controllers/UserCompanyRegistrationPageController.java
+END
+ItemsPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/dartech/searchpoint/svn/!svn/ver/22/searchpoint/src/com/searchpoint/controllers/ItemsPageController.java
+END
+DataViewPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/dartech/searchpoint/svn/!svn/ver/22/searchpoint/src/com/searchpoint/controllers/DataViewPageController.java
+END
+CategoriesPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/dartech/searchpoint/svn/!svn/ver/12/searchpoint/src/com/searchpoint/controllers/CategoriesPageController.java
+END
+InformationPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/dartech/searchpoint/svn/!svn/ver/14/searchpoint/src/com/searchpoint/controllers/InformationPageController.java
+END
+HomePageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/dartech/searchpoint/svn/!svn/ver/22/searchpoint/src/com/searchpoint/controllers/HomePageController.java
+END
+UserRegistrationPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/dartech/searchpoint/svn/!svn/ver/22/searchpoint/src/com/searchpoint/controllers/UserRegistrationPageController.java
+END
+TermsPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/dartech/searchpoint/svn/!svn/ver/14/searchpoint/src/com/searchpoint/controllers/TermsPageController.java
+END
+UserCompaniesPageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/dartech/searchpoint/svn/!svn/ver/22/searchpoint/src/com/searchpoint/controllers/UserCompaniesPageController.java
+END

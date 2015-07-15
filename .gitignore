@@ -2,14 +2,15 @@
 *.class
 
 # Package files #
+*.jar
 *.war
 *.ear
 
 # Project files and folders #
-.project
-.classpath
-.settings/
-.svn/
-bin/
 build/
 target/
+
+# IDE files and folders #
+.settings/
+.classpath
+.project
