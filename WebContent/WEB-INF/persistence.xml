@@ -10,7 +10,6 @@
         <properties>
             <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver" />
             <property name="hibernate.connection.username" value="root" />
-            <property name="hibernate.connection.password" value="secret" />
             <property name="hibernate.connection.url" value="jdbc:mysql://localhost/searchpoint" />
             <property name="hibernate.connection.useUnicode" value="true"/>
             <property name="hibernate.connection.characterEncoding" value="UTF-8" />
