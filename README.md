@@ -25,7 +25,7 @@ Check out following URL once commands above have been executed:
 http://<your host>:8080/searchpoint
 ```
 
-Use test@test.test / test as credentials.
+Use test[at]test.test / test as credentials.
 
 ## Credits
 
