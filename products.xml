@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item>
+		<name>Lorem ipsum #1</name>
+		<link>http://www.loremipsum.com/lorem/ispum</link>
+		<price>1.00</price>
+		<image>/searchpoint/css/searchpoint/images/no-photo-available.jpg</image>
+		<category>Lorem ipsum</category>
+		<category_full>Lorem ipsum details</category_full>
+		<category_link>http://www.loremipsum.com/lorem/ispum/category</category_link>
+		<in_stock>1</in_stock>
+	</item>
+	<item>
+		<name>Lorem ipsum #2</name>
+		<link>http://www.loremipsum.com/lorem/ispum</link>
+		<price>2.00</price>
+		<image>/searchpoint/css/searchpoint/images/no-photo-available.jpg</image>
+		<category>Lorem ipsum</category>
+		<category_full>Lorem ipsum details</category_full>
+		<category_link>http://www.loremipsum.com/lorem/ispum/category</category_link>
+		<in_stock>2</in_stock>
+	</item>
+	<item>
+		<name>Lorem ipsum #3</name>
+		<link>http://www.loremipsum.com/lorem/ispum</link>
+		<price>3.00</price>
+		<image>/searchpoint/css/searchpoint/images/no-photo-available.jpg</image>
+		<category>Lorem ipsum</category>
+		<category_full>Lorem ipsum details</category_full>
+		<category_link>http://www.loremipsum.com/lorem/ispum/category</category_link>
+		<in_stock>3</in_stock>
+	</item>
+	<item>
+		<name>Lorem ipsum #4</name>
+		<link>http://www.loremipsum.com/lorem/ispum</link>
+		<price>4.00</price>
+		<image>/searchpoint/css/searchpoint/images/no-photo-available.jpg</image>
+		<category>Lorem ipsum</category>
+		<category_full>Lorem ipsum details</category_full>
+		<category_link>http://www.loremipsum.com/lorem/ispum/category</category_link>
+		<in_stock>4</in_stock>
+	</item>
+	<item>
+		<name>Lorem ipsum #5</name>
+		<link>http://www.loremipsum.com/lorem/ispum</link>
+		<price>5.00</price>
+		<image>/searchpoint/css/searchpoint/images/no-photo-available.jpg</image>
+		<category>Lorem ipsum</category>
+		<category_full>Lorem ipsum details</category_full>
+		<category_link>http://www.loremipsum.com/lorem/ispum/category</category_link>
+		<in_stock>5</in_stock>
+	</item>
+</root>

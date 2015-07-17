@@ -13,7 +13,7 @@
             <property name="hibernate.connection.url" value="jdbc:mysql://localhost/searchpoint" />
             <property name="hibernate.connection.useUnicode" value="true"/>
             <property name="hibernate.connection.characterEncoding" value="UTF-8" />
-            <property name="hibernate.connection.charSet" value="UTF-8" />            
+            <property name="hibernate.connection.charSet" value="UTF-8" />
             <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect" />
             <property name="hibernate.hbm2ddl.auto" value="create" />
             <property name="hibernate.show_sql" value="true" />
