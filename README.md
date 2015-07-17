@@ -4,11 +4,11 @@
 
 ## About
 
-If you know what is PriceRunner then you know what price comparison service mean. This project was an idea to introduced another one.
+Searchpoint is web-app for providing price comparison service to its end-users. If you know what for instance [PriceRunner](www.pricerunner.com) is then you most definitely know what term "price comparison service" mean.
 
 ## Key technologies
 
-TODO.
+Java, JSP, Spring, Tomcat, MySQL, HTML + JS + CSS, Maven
 
 ## Deployment instructions
 
