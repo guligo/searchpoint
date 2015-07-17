@@ -27,6 +27,8 @@ http://<your host>:8080/searchpoint
 
 Use test[at]test.test / test as credentials.
 
+In case you're interested in building and deploying the project outside of Docker image, then follow [Dockerfile](https://github.com/guligo/docker-images/blob/master/searchpoint/Dockerfile) and make conclusions on how to do it yourself.
+
 ## Credits
 
 TODO.
