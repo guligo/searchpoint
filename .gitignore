@@ -12,6 +12,5 @@ target/
 
 # IDE files and folders #
 .settings/
-.svn/
 .classpath
 .project
