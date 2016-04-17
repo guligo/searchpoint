@@ -3,7 +3,6 @@
 ![alt tag](https://raw.githubusercontent.com/guligo/docker-images/master/searchpoint/searchpoint.png)
 ![alt tag](https://raw.githubusercontent.com/guligo/docker-images/master/searchpoint/searchpoint-2.png)
 ![alt tag](https://raw.githubusercontent.com/guligo/docker-images/master/searchpoint/searchpoint-3.png)
-![alt tag](https://raw.githubusercontent.com/guligo/docker-images/master/searchpoint/searchpoint-5.png)
 
 ## About
 
